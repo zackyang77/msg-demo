@@ -1,0 +1,8 @@
+Name: inbox-api
+Host: 0.0.0.0
+Port: 8888
+Mysql:
+  DataSource: msg:msgpass@tcp(127.0.0.1:3308)/msg_demo?parseTime=true&loc=Asia%2FShanghai&charset=utf8mb4
+Auth:
+  AccessSecret: super-secret-key
+  AccessExpire: 86400
