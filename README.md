@@ -53,3 +53,6 @@ msg-demo/
 - 将系统通知扩展为多用户或群组推送（目前为单用户）。
 - 编写单元测试与集成测试，并补上 seed data / fixtures。
 - 将后端与前端一起 Docker 化，或加入 CI/CD、自動部署流程。
+
+  test git
+  
