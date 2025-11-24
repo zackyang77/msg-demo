@@ -65,4 +65,10 @@ ttt
 
 x   分支 提交
 
+<<<<<<< Updated upstream
 远端修改。。。
+=======
+
+
+本地修改一些东西
+>>>>>>> Stashed changes
